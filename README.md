@@ -123,8 +123,7 @@ Some possible improvements are:
 
 ## 👨‍💻 Author
 
-**Your Name**
-
+ARPAN KUNDU
 Built with ❤️ using Python and Streamlit.
 
 ## 📄 License
